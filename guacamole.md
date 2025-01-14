@@ -6,5 +6,6 @@
 *salt $0.05
 
 ## Instructions
-
+*mash the avocados
+*squeeze the limes
 
